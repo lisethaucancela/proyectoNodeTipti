@@ -1,12 +1,13 @@
-Nombre: Liseth Aucancela
+**Nombre:** Liseth Aucancela
 
-Datos Login: 
+**Datos Login: **
+
 {
     "email": "er12@h.com",
     "password": "1234"
 }
 
-EndPoints
+**EndPoints**
 http://localhost:3000/login
 http://localhost:3000/logout
 http://localhost:3000/user/
