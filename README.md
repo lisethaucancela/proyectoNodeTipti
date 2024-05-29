@@ -1,6 +1,6 @@
 **Nombre:** Liseth Aucancela
 
-**Datos Login: **
+**Datos Login:**
 
 {
     "email": "er12@h.com",
